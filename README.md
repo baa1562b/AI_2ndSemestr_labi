@@ -5,5 +5,9 @@
 
 ### Все лабораторные лежат в папке labs
 
+<<<<<<< HEAD
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/baa1562b/AI_2ndSemestr_labi/master)
+=======
+Ы
+>>>>>>> c5be0fd516e53863743756c7a16049a0a46096ae
